@@ -19,7 +19,7 @@ Terraform을 사용하여 AWS와 GitHub 인프라를 통합적으로 프로비�
 1.  **저장소 복제 (Clone Repository)**
     ```bash
     git clone <repository_url>
-    cd dev-ops-template
+    cd cicd-template-repo
     ```
 
 2.  **변수 파일 설정 (Configure Variables)**
